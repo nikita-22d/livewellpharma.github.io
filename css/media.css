@@ -1,0 +1,133 @@
+@media screen and (max-width:1366px){
+
+}
+@media screen and (min-width:1101px) and (max-width:1200px){
+.container-dots-wrapper { left:20px;}
+}
+
+@media screen and (min-width:1024px) and (max-width:1100px){
+.container-dots-wrapper { left:25px;}
+}
+@media screen and (max-width:1024px){
+.container-dots-wrapper { left:25px;}
+.phoenix-slider { max-height:400px;}
+.slide_detail { height:400px;}
+.form { width:70%;}
+.address_form { width:70%;}
+}
+@media screen and (min-width:1000px) and (max-width:1023px){ 
+.fabrics ul li { width:33%; padding-right:20px;}
+
+
+}
+@media screen and (max-width:999px){
+.top_login { display:none;}
+.phoenix-slider { max-height:350px;}
+.slide_detail { height:350px;}
+.slide_detail_left { width:60%;}
+.slide_detail_left h1 { font-size:40px;}
+.slide_detail_left h2 { font-size:18px;}
+.slider_btn { font-size:18px;}
+.checkout_part { padding:10px;}
+.fabrics ul li { width:33%; padding-right:20px;}
+}
+
+@media screen and (min-width:801px) and (max-width:999px){
+
+
+}
+@media screen and (min-width:768px) and (max-width:800px){
+.form { width:80%;}
+.about_text ul li { font-size:16px;}
+.company_logo ul li { padding:5px;}
+.howitworks ul li { width:100%; display:table; margin-bottom:50px;}
+.whyus ul li { width:100%; display:table; margin-bottom:50px;}
+.cart_area {max-width: 1000px; overflow-x: scroll; padding-bottom: 30px;}
+.carttable {min-width: 1000px;}
+.fabrics ul li { width:50%; padding-right:20px;}
+.l_mid_left { width:25%;}
+.l_mid_right { width:70%;}
+}
+@media screen and (min-width:641px) and (max-width:767px){
+.about_text ul li { font-size:16px;}
+.about_p2 { font-size:20px;}
+.company_logo ul li { padding:5px;}
+.howitworks ul li { width:100%; display:table; margin-bottom:50px;}
+.whyus ul li { width:100%; display:table; margin-bottom:50px;}
+.review_part_right { float:left; clear:left; margin-top:50px;}
+.cart_area {max-width: 1000px; overflow-x: scroll; padding-bottom: 30px;}
+.carttable {min-width: 1000px;}
+.l_mid_left { width:28%;}
+.l_mid_right { width:68%;}
+.fabrics ul li { width:50%; padding-right:10px;}
+}
+@media screen and (max-width:640px){
+.phoenix-slider { max-height:300px;}
+.slide_detail { height:300px;}
+.slide_detail_left { width:80%;}
+.slide_detail_left h1 { font-size:30px;}
+.slide_detail_left h2 { font-size:14px;}
+.slider_btn { font-size:14px;}
+.h_part_left { width:100%;}
+.h_part_right { width:100%;}
+.form { width:100%;}
+.form_title { width:100%; float:left; margin-right:0%; line-height:30px;}
+.form_field { width:100%; float:left;}
+.about_text ul li { font-size:16px;}
+.about_p2 { font-size:20px;}
+.company_logo ul li { padding:5px;}
+.about_img { float:left; width:50%;}
+.about_text { width:100%; margin-top:20px;}
+.company_logo ul li { width:25%;}
+.about_content { font-size:14px;}
+.design ul li { width:45%;}
+.design_order_left { width:30%;}
+.design_order_right { margin-left:0px; margin-top:20px; width:100%;}
+.howitworks ul li { width:100%; display:table; margin-bottom:50px;}
+.whyus ul li { width:100%; display:table; margin-bottom:50px;}
+.review_part_right { float:left; clear:left; margin-top:50px; width:100%;}
+.top_review_part_left { width:100%;}
+.top_review_part_right { width:100%; margin:10px 0 0 0;}
+.top_review_part ul li { border-bottom:solid 1px #c3c3c3; padding-bottom:25px;}
+.cart_area {max-width: 1000px; overflow-x: scroll; padding-bottom: 30px;}
+.carttable {min-width: 1000px;}
+.address_form { width:100%;}
+
+.l_mid_left { display:none;}
+.l_mid_left_mob { display:block; background-color:#000; padding:10px; text-align:center; width:100%; float:left; margin:20px 0;}
+.l_mid_left_mob a { color:#fff;}
+.l_mid_right { width:100%;}
+.fabrics ul li { width:50%; padding-right:10px;}
+
+}
+@media screen and (min-width:481px) and (max-width:639px){
+
+
+}
+@media screen and (max-width:480px){
+.design_order_left { width:30%;}
+.design_order_right { margin-left:0px; margin-top:20px; width:100%;}
+}
+@media screen and (min-width:376px) and (max-width:479px){
+.review_part_left { width:100%;}
+.review_show { margin:20px 0 0 0; width:100%;}
+.fabrics ul li { width:100%; padding-right:0px;}
+}
+@media screen and (max-width:375px){
+.phoenix-slider { max-height:250px;}
+.slide_detail { height:250px;}
+h2 { font-size:40px;}
+.company_logo ul li { width:50%;}
+.design ul li { width:100%;}
+.design_order_left { width:100%;}
+.design_order_right { margin-left:0px; margin-top:20px; width:100%;}
+.u_button { font-size:20px;}
+.review_part_left { width:100%;}
+.review_show { margin:20px 0 0 0; width:100%;}
+.u_link.mrgn_l20 { width:100%; float:left; margin:20px 0 0 0;}
+.fabrics ul li { width:100%; padding:0 10%;}
+
+}
+@media screen and (max-width:320px){
+
+}

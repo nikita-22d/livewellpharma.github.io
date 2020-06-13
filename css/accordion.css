@@ -1,0 +1,59 @@
+#accordion {
+  clear: both;
+  float: left;
+  width:100%;
+}
+
+#accordion section {
+  text-align: center;
+  width: 100%;
+  border-bottom:solid 1px #f5f5f5;
+}
+
+#accordion section h1 {
+  font-size: 30px;
+  cursor: pointer;
+  padding: 20px 0;
+  color: #000;
+  font-family: 'robotolight';
+}
+
+#accordion section .accordion_content {
+  display: none;
+  /*margin:20px 0;*/
+}
+
+.fulljustify { text-align: justify; }
+
+.fulljustify:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+section h1 span {
+  float: right;
+  display: block;
+  position: relative;
+}
+
+section h1 span img {
+  margin-top: 2px;
+  margin-right: 10px;
+}
+
+section h1 span img.open {
+  float: right;
+  position: absolute;
+  clip: rect(0px,40px,20px,0px);
+  right: 0px;
+  margin-top: 10px;
+}
+
+section h1 span img.closed {
+  float: right;
+  position: absolute;
+  clip: rect(20px,40px,40px,0px);
+  right: 0px;
+  margin-top: -10px;
+}
